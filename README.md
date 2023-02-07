@@ -4,12 +4,10 @@
 
 ## About
 
-This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine), and as such it had certain restrictions:
-- It had to comply with a strict code style guide - The Norm.
-
-This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine). It was a weekend project done in randomly assigned teams, however my teammates weren't able to contribute to the coding aspect of the project, so I was the only one writing the code.
-
-
+This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine).
+- It had to comply with [the Subject](rush01.en.pdf).
+- It had to comply with a strict code style guide - [The Norm](en.norm.pdf).
+- It was a weekend project done in randomly assigned teams, however my teammates weren't able to contribute to the coding aspect of the project, so I was the only one writing the code.
 
 ## How to run
 
