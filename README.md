@@ -19,3 +19,8 @@ This project was created as a part of Hive Helsinki (school 42) month-long admis
 
 - A valid sudoku has only one possible solution.
 - In case of error, the program displays ”Error” followed by a line break.
+
+## What was learned
+
+- Backtracking algorithims
+- Command line argument handling
