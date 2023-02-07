@@ -2,7 +2,9 @@
 
 This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine).
 
-It was a small weekend team project, however I was the only one writing the code, since my teammates weren't able to contribute in this aspect.
+![screenshot](screenshot.png)
+
+This was a small weekend team project, however I was the only one writing the code, since my teammates weren't able to contribute in this aspect.
 
 ## About
 
