@@ -2,9 +2,14 @@
 
 ![screenshot](screenshot.png)
 
-This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine).
+## About
 
-It was a small weekend team project, however I was the only one writing the code, since my teammates weren't able to contribute in this aspect.
+This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine), and as such it had certain restrictions:
+- It had to comply with a strict code style guide - The Norm.
+
+This project was created as a part of Hive Helsinki (school 42) month-long admission process (piscine). It was a weekend project done in randomly assigned teams, however my teammates weren't able to contribute to the coding aspect of the project, so I was the only one writing the code.
+
+
 
 ## How to run
 
